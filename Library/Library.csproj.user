@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ContentWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomControl\WaterMarkTestBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DetailAuthorWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DetailManagementWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HomeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LikeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagementWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ContentWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomControl\WaterMarkTestBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DetailAuthorWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DetailManagementWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DetailWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HomeWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LikeWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagementWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ThemeDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\AccountMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ImageLogo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\Item.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
