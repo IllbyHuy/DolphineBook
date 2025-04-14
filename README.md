@@ -1,29 +1,28 @@
-# DolphineBook
+# 📚 DolphineBook
 
 This is my PRN project - an ebook reader application.
 
-## Screenshots
+## 📸 Screenshots
 
-![Login screen](./Screenshot%202025-04-14%20180751.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./Screenshot%202025-04-14%20180751.png" width="400" alt="Login screen">
+  <img src="./Screenshot%202025-04-14%20180816.png" width="400" alt="Main screen">
+  <img src="./Screenshot%202025-04-14%20180834.png" width="400" alt="Book management">
+  <img src="./Screenshot%202025-04-14%20180952.png" width="400" alt="Revenue report">
+</div>
 
-![Main screen](./Screenshot%202025-04-14%20180816.png)
-
-![Book management](./Screenshot%202025-04-14%20180834.png)
-
-![Revenue report](./Screenshot%202025-04-14%20180952.png)
-
-## Description
+## 📋 Description
 
 DolphineBook is a desktop application developed with C# .NET that people can use to read ebooks.
 
-## Main Features
+## ✨ Main Features
 
-- Book information management, authors, works and content
-- Book search functionality
+- 📖 Book information management, authors, works and content
+- 🔍 Book search functionality
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- C# .NET
-- SQL Server
-- Entity Framework
-- WPF (Windows Presentation Foundation)
+- 💻 C# .NET
+- 🗃️ SQL Server
+- 🔄 Entity Framework
+- 🖼️ WPF (Windows Presentation Foundation)
